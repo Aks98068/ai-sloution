@@ -1,0 +1,15 @@
+{
+    "name": "ai-solution-website",
+    "version": "1.0.0",
+    "description": "A simple AI solution website with a chatbot and admin panel.",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "body-parser": "^1.19.0",
+        "mysql": "^2.18.1",
+        "cors": "^2.8.5"
+    }
+}
